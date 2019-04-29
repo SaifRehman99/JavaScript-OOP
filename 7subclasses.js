@@ -6,7 +6,7 @@ class Book{
         this.author = author,
         this.year = year
     }
-    // in class the method got prototyped
+    // In the class, Method got prototyped
     getSummary(){
         return `${this.title} was written by ${this.author}`;
     }
